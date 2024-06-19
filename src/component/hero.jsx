@@ -54,7 +54,7 @@ const Hero = () => {
                                 Payment Amount
                             </span>
                             <span className='amount-value'>
-                                $500.00
+                                $200.00
                             </span>
                             </div>
                             <i className='fas-fa-dollar-sign icon'></i>
@@ -72,7 +72,7 @@ const Hero = () => {
                                 Payment Amount
                             </span>
                             <span className='amount-value'>
-                                $500.00
+                                $600.00
                             </span>
                             </div>
                             <i className='fas-fa-dollar-sign icon'></i>
@@ -91,7 +91,7 @@ const Hero = () => {
                                 Payment Amount
                             </span>
                             <span className='amount-value'>
-                                $500.00
+                                $900.00
                             </span>
                             </div>
                             <i className='fas-fa-dollar-sign icon'></i>
